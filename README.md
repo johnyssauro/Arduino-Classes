@@ -24,4 +24,4 @@ Os projetos principais foram:
   5. Trena eletrônica;
   6. Robô com Sensor Ultrassônico (desvia de obstáculos).*
 
-* O código do Robô não está disponível no repositório.
+-->* O código do Robô não está disponível no repositório.
