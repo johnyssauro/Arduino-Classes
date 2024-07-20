@@ -10,7 +10,7 @@ Essas aulas de Introdução ao Arduino foram voltadas, justamente, para ensinar 
 ## 🔗 Fontes
 
 As principais fontes de informações para montagem das aulas e implementação dos códigos estão presentes na pasta [Apostilas](#Apostilas).
-As apostilas vêm dos sites da [Multilógica-Shop](#https://multilogica-shop.com/), da [Eletrogate](#https://www.eletrogate.com/) e da [Casa da Robótica](#https://www.casadarobotica.com/).
+As apostilas vêm dos sites da [Multilógica-Shop](https://multilogica-shop.com/), da [Eletrogate](https://www.eletrogate.com/) e da [Casa da Robótica](https://www.casadarobotica.com/).
 Dá uma visitada neles! 😁
 
 ## 🎯 Projetos
